@@ -1,0 +1,5 @@
+# Banco de dados
+db.sqlite3
+
+#variaveis de ambiente
+.env
